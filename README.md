@@ -1,5 +1,4 @@
-https://img.shields.io/badge/Android%20Arsenal-MaterialDialogBottomSheet-green.svg?style=flat)](https://android-arsenal.com/details/1/2057
-
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MaterialDialogBottomSheet-green.svg?style=flat)](https://android-arsenal.com/details/1/2057)
 # MaterialDialogBottomSheet
 
 MaterialDialogBottomSheet is a custom dialog implementation to use BottomSheet MaterialView feature of Lollipop in older versions
