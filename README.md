@@ -9,7 +9,7 @@ It can be used with an ease by simply enabling dialog as a BottomSheet without u
 
 Logo     | Application
 -------- | ---
-Computer | [ZappShare][7]
+Computer | [ZappShare][7]{:target="_blank"}
 
 
 ![demo_screenshot](https://cloud.githubusercontent.com/assets/11768239/8396480/05f0dc04-1dc5-11e5-8a9e-788b00a475b3.png)
