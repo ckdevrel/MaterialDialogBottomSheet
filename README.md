@@ -5,9 +5,10 @@ MaterialDialogBottomSheet is a custom dialog implementation to use BottomSheet M
 
 It can be used with an ease by simply enabling dialog as a BottomSheet without using any library integration.
 
-<img src="https://cloud.githubusercontent.com/assets/11768239/8396480/05f0dc04-1dc5-11e5-8a9e-788b00a475b3.png" alt="screenshot" width="320" height="480"/>
 
-![demo_screenshot](https://cloud.githubusercontent.com/assets/11768239/8396480/05f0dc04-1dc5-11e5-8a9e-788b00a475b3.png)
+<img src="https://cloud.githubusercontent.com/assets/11768239/8396480/05f0dc04-1dc5-11e5-8a9e-788b00a475b3.png"/>
+
+
 
 **Applications using MaterialDialogBottomSheet**
 
