@@ -10,10 +10,15 @@ It can be used with an ease by simply enabling dialog as a BottomSheet without u
 
 Logo     | Application
 -------- | ---
-![ic_launcher](https://cloud.githubusercontent.com/assets/11768239/8404848/050c033c-1e6e-11e5-8800-13f2661e2565.png =20x20) | <a href="https://play.google.com/store/apps/details?id=com.takeoffandroid.zappshare" target="_blank">ZappShare</a>
+![ZappShare](https://cloud.githubusercontent.com/assets/11768239/8404848/050c033c-1e6e-11e5-8800-13f2661e2565.png) | <a href="https://play.google.com/store/apps/details?id=com.takeoffandroid.zappshare" target="_blank">ZappShare</a>
 
 
 
 ![demo_screenshot](https://cloud.githubusercontent.com/assets/11768239/8396480/05f0dc04-1dc5-11e5-8a9e-788b00a475b3.png)
 
 [7]: https://play.google.com/store/apps/details?id=com.takeoffandroid.zappshare
+
+img[alt="ZappShare"] { 
+  max-width:  20px; 
+  display: block;
+}
