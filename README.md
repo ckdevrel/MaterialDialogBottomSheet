@@ -20,5 +20,6 @@ Logo     | Application
 
 img[alt="ZappShare"] { 
   max-width:  20px; 
+  max-height:  20px; 
   display: block;
 }
