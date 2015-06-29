@@ -10,7 +10,7 @@ It can be used with an ease by simply enabling dialog as a BottomSheet without u
 
 Logo     | Application
 -------- | ---
-![ic_launcher](https://cloud.githubusercontent.com/assets/11768239/8404848/050c033c-1e6e-11e5-8800-13f2661e2565.png){:height="36px" width="36px"} | <a href="https://play.google.com/store/apps/details?id=com.takeoffandroid.zappshare" target="_blank">ZappShare</a>
+<img src="https://cloud.githubusercontent.com/assets/11768239/8404848/050c033c-1e6e-11e5-8800-13f2661e2565.png" alt="ZappShare" width="30" height="30" border="10" /> | <a href="https://play.google.com/store/apps/details?id=com.takeoffandroid.zappshare" target="_blank">ZappShare</a>
 
 
 
@@ -19,3 +19,4 @@ Logo     | Application
 [7]: https://play.google.com/store/apps/details?id=com.takeoffandroid.zappshare
 
 
+<img src="https://cloud.githubusercontent.com/assets/11768239/8404848/050c033c-1e6e-11e5-8800-13f2661e2565.png" alt="ZappShare" width="30" height="30" border="10" />
