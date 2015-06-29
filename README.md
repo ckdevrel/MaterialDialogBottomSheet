@@ -10,7 +10,7 @@ It can be used with an ease by simply enabling dialog as a BottomSheet without u
 
 Logo     | Application
 -------- | ---
-Computer | <a href="https://play.google.com/store/apps/details?id=com.takeoffandroid.zappshare" target="_blank">ZappShare</a>
+![alt tag](https://goo.gl/photos/7Jef5Fqe9Tittbkd7) | <a href="https://play.google.com/store/apps/details?id=com.takeoffandroid.zappshare" target="_blank">ZappShare</a>
 
 
 
