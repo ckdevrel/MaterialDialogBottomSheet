@@ -27,9 +27,8 @@ public class MainActivity extends AppCompatActivity {
 
     public void openBottomSheet (View v) {
 
-//        int dialogHeight = (int)getDimensPxtoDp(200,MainActivity.getActivity());
         View view = getLayoutInflater ().inflate (R.layout.bottom_sheet, null);
-        TextView txtExport = (TextView)view.findViewById( R.id.txt_export);
+        TextView txtBackup = (TextView)view.findViewById( R.id.txt_backup);
         TextView txtDetail = (TextView)view.findViewById( R.id.txt_detail);
         TextView txtOpen = (TextView)view.findViewById( R.id.txt_open);
         final TextView txtUninstall = (TextView)view.findViewById( R.id.txt_uninstall);
@@ -42,11 +41,11 @@ public class MainActivity extends AppCompatActivity {
         mBottomSheetDialog.show ();
 
 
-        txtExport.setOnClickListener(new View.OnClickListener() {
+        txtBackup.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
-                Toast.makeText(MainActivity.this,"Clicked Export",Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this,"Clicked Backup",Toast.LENGTH_SHORT).show();
                 mBottomSheetDialog.dismiss();
             }
         });
